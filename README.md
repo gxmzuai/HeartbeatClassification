@@ -14,7 +14,7 @@
 heartbeatclassification
 ├── results【实验结果分享】
 ├── reports【个人实验报告分享】
-├── others【其他同学的解题代码分享】
+├── others【其他文件，如模型结构图等】
 ├── HeartbeatClassification.ipynb
 └── README.md【使用说明】
 ```
