@@ -16,6 +16,7 @@ heartbeatclassification
 ├── reports【个人实验报告分享】
 ├── others【其他文件，如模型结构图等】
 ├── HeartbeatClassification.ipynb
+├── wzy.ipynb【班长的解题分享，测评分数154】
 └── README.md【使用说明】
 ```
 
